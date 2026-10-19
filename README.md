@@ -121,6 +121,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ |
 | [nextflare](https://github.com/ccbikai/nextflare)                                                                            | Next.js App running with Lemon Squeezy on Cloudflare.                                                                      | <https://nextflare-template.pages.dev/> | 维护中 |
 | [create-microservices-app](https://github.com/microservices-sh/microservices-sh/tree/main/packages/create-microservices-app) | Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. | <https://microservices.sh>              | 维护中 |
+| [ShipKit Lite](https://github.com/rice408s/tanstack-start-cloudflare-starter) | 基于 TanStack Start + Cloudflare Workers 的免费 MIT 全栈启动模板：D1 + Drizzle、R2 存储、better-auth 免密码登录（邮箱验证码，可选 Google / GitHub）、Paraglide 中英双语、构建时编译的 MDX 博客和文档，本地开发也跑在 workerd 里，并附带给 Claude Code / Codex / Cursor 用的项目规则。 |  | 维护中 |
 
 ## 短链
 
